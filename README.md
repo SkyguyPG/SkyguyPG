@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently learning how to use github. I am a Food Technologist and biotechnologist, at this moment working as a laboratory analyst. I believe that github could be really useful in a professional way. So, i am looking to collaborate on any proyect related to my field of work.
 <!--
 **SkyguyPG/SkyguyPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
